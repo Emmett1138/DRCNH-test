@@ -1,0 +1,20 @@
+
+pay = 0
+document1 = approved
+
+print(document1)
+print(“Proposal acceptable or unacceptable?”)
+
+If input == menu
+input(approved “stamp” or denied “stamp”)
+
+If input == approved == document1
+pay + 5
+print(“You are correct! You have been payed 5$”)
+
+Menu - Development Regulatory Commision of New Hampton - Regulatory Manual
+
+Proposals must be submitted within 30 days of their creation.
+Company’s or individual’s name must be included
+Financial statements must be included.
+All projects must include the appropriate and valid permits 
